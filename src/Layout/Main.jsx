@@ -6,18 +6,6 @@ const Main = () => {
         <div>      
             <Outlet></Outlet>
             <Footer></Footer>
-            <Outlet></Outlet>
-            <Footer></Footer>
-            <Outlet></Outlet>
-            <Footer></Footer>
-            <Outlet></Outlet>
-            <Footer></Footer>
-            <Outlet></Outlet>
-            <Footer></Footer>
-            <Outlet></Outlet>
-            <Footer></Footer>
-            <Outlet></Outlet>
-            <Footer></Footer>
         </div>
     );
 };
